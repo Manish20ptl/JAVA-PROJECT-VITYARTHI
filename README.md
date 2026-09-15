@@ -6,9 +6,10 @@ Campus Course & Records Manager (CCRM) is a console-based Java application for m
 ## Features
 - Student Management : Add, list, search, update, and delete student records.
 - Course Management : Add, list, search, update, and delete courses.
-- Enrollment & Grades : - Enroll or unenroll students in courses.
-                        - Record grades for enrolled courses.
-                        - Print transcripts for students.
+- Enrollment & Grades :
+  - Enroll or unenroll students in courses.
+  - Record grades for enrolled courses.
+  - Print transcripts for students.
 - Data Persistence : - All data is saved to CSV files and automatically loaded on startup.
                      - Enrollment data is maintained separately for integrity.
 - Backup : Easily create timestamped backups of all data files.
